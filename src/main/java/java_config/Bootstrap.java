@@ -8,7 +8,7 @@ import java.util.Arrays;
 /**
  * @author skywalker
  */
-public class Bootrap {
+public class Bootstrap {
 
     public static void main(String[] args) {
         AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext(SimpleBeanConfig.class);
